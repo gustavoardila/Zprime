@@ -7,9 +7,10 @@ Chapter1: INTRO
 1.3 QED
 1.4 QCD
 1.5 EW interaction and Higgs
-1.6 Seesaw mechanism 
-1.9 z prime physics
-1.8 Zprime searches at LHC
+1.6 Seesaw mechanism
+1.7.Models beyond SM 
+1.8 z prime physics
+1.9 Zprime searches at LHC
 Chapter2: LHC experiments and simulations
 2.1 Intro to LHC
 2.2 Previous colliders
