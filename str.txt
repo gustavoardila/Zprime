@@ -1,0 +1,26 @@
+#This is the str of the thesis document
+
+Chapter1: INTRO
+1.1 Classical continuum fields
+1.2 Quantum mechanical fields
+1.3 Brief intro to group theory and Lie groups in physics
+1.3 QED
+1.4 QCD
+1.5 EW interaction and Higgs
+1.6 Seesaw mechanism 
+1.9 z prime physics
+1.8 Zprime searches at LHC
+Chapter2: LHC experiments and simulations
+2.1 Intro to LHC
+2.2 Previous colliders
+2.3 ATLAS 
+2.4 CMS physics and structure
+2.5 CMS simulators: madgraph, pythia and delphes
+2.6 Motivations
+Chapter3: Results
+Chapter 5: Conclusions
+Appendix A: SM extensions
+Appendix B: Feynman rules
+Appendix C: Code
+
+Acknowledgements: mom, dad, Gilma, Granny. Friends. Girl. Florez, Avila, Sanabria, Quiroga.
